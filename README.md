@@ -11,19 +11,19 @@ My journey in IT support has led me to develop a passion for cybersecurity, and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Configuration, Log Management, File Integrity Monitoring, Vulnerability Detection          | <a href="https://eportfolio.mygreatlearning.com/sageer-ali-khan">Setting up Security Operations & Monitoring using SIEM</a>|
-| Log Analysis & Incident Detection | <a href="https://google.com">Analysing Windows Firewall Logs</a>|
-| Incident Response, Malware Analysis, Windows Forensics, Audit & Logging         | Investigating a Compromised Machine|
-| Data Analysis, Prioritization & Patch management      | Vulnerability Management|
-| Vulnerability Assessment, Network Scanning & Report Analysis                  | Vulnerability Management with Nessus|
-| Product Evaluations, Risk analysis, Risk Control mapping & Zaro Trust Assessment | Endpoint Detection and Response (EDR)|
-| Ransomware Analysis & Threat Intelligence Gathering | Ransomware attacks|
-| Password cracking & Penetration testing | Cracking a Password|
-| Phishing Email Detection, URL Analysis | Social Engineering Attack Analysis|
-| Threat Intelligence & Threat Analysis | MITRE ATT&CK Framework|
-| Packet Analysis, Forensic Investigation | Wireshark Packet Analysis|
-| Firewall Configuration, Network Scanning | Port Scan using Nmap|
-| Digital certificates, SSL, Certificate Recovation List (CRL) | SSL Certificate Analysis|
+| SIEM Configuration and Log Management          | <a href="https://eportfolio.mygreatlearning.com/sageer-ali-khan">Setting up Security Operations & Monitoring using SIEM</a>|
+| Log Analysis and Incident Detection | <a href="https://google.com">Analysing Windows Firewall Logs</a>|
+| Malware Analysis and Windows Forensics         | Investigating a Compromised Machine|
+| Data Analysis and Patch management      | Vulnerability Management|
+| Vulnerability Assessment and Report Analysis                  | Vulnerability Management with Nessus|
+| Product Evaluations and Risk analysis | Endpoint Detection and Response (EDR)|
+| Ransomware Analysis and Threat Intelligence Gathering | Ransomware attacks|
+| Password cracking and Penetration testing | Cracking a Password|
+| Phishing Email Detection and URL Analysis | Social Engineering Attack Analysis|
+| Threat Analysis and Threat Intelligence | MITRE ATT&CK Framework|
+| Packet Analysis and Forensic Investigation | Wireshark Packet Analysis|
+| Firewall Configuration and Network Scanning | Port Scan using Nmap|
+| Digital certificates and Certificate Recovation List (CRL) | SSL Certificate Analysis|
 
 
 ## Tools
