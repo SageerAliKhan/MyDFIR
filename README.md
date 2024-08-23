@@ -1,26 +1,30 @@
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Sageer Ali Khan
+<a href="https://www.linkedin.com/in/sageer-ali-khan-9a65b1a9"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent post graduate in cyber security with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT support has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Configuration, Log Management, File Integrity Monitoring, Vulnerability Detection          | <a href="https://eportfolio.mygreatlearning.com/sageer-ali-khan">Setting up Security Operations & Monitoring using SIEM</a>|
+| Log Analysis & Incident Detection | <a href="https://google.com">Analysing Windows Firewall Logs</a>|
+| Incident Response, Malware Analysis, Windows Forensics, Audit & Logging         | Investigating a Compromised Machine|
+| Data Analysis, Prioritization & Patch management      | Vulnerability Management|
+| Vulnerability Assessment, Network Scanning & Report Analysis                  | Vulnerability Management with Nessus|
+| Product Evaluations, Risk analysis, Risk Control mapping & Zaro Trust Assessment | Endpoint Detection and Response (EDR)|
+| Ransomware Analysis & Threat Intelligence Gathering | Ransomware attacks|
+| Password cracking & Penetration testing | Cracking a Password|
+| Phishing Email Detection, URL Analysis | Social Engineering Attack Analysis|
+| Threat Intelligence & Threat Analysis | MITRE ATT&CK Framework|
+| Packet Analysis, Forensic Investigation | Wireshark Packet Analysis|
+| Firewall Configuration, Network Scanning | Port Scan using Nmap|
+| Digital certificates, SSL, Certificate Recovation List (CRL) | SSL Certificate Analysis|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
