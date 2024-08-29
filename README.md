@@ -12,6 +12,7 @@ My journey in IT support has led me to develop a passion for cybersecurity, and 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration and Log Management          | <a href="https://eportfolio.mygreatlearning.com/sageer-ali-khan">Setting up Security Operations & Monitoring using SIEM</a>|
+| Incident Documentation and Root Cause Analysis         | Writing Incident Report|
 | Log Analysis and Incident Detection | <a href="https://google.com">Analysing Windows Firewall Logs</a>|
 | Malware Analysis and Windows Forensics         | Investigating a Compromised Machine|
 | Data Analysis and Patch management      | Vulnerability Management|
